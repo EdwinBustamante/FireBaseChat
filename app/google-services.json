@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "464683129425",
+    "firebase_url": "https://michat-5986c.firebaseio.com",
+    "project_id": "michat-5986c",
+    "storage_bucket": "michat-5986c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464683129425:android:e8fc9b3d2745dd45",
+        "android_client_info": {
+          "package_name": "com.edwinbustamante.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464683129425-r4f06uon10mpejagpo7nlllia68e3db1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDikrPMsxZEgfC5XV8qW0k-pKJ09er2qY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

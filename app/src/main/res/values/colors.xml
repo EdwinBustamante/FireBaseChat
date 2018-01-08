@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E91E63</color>
+    <color name="colorPrimaryDark">#c2185b</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="pink_50_fondo">#FCE4EC</color>
+    <color name="pink_100_mensajes">#F8BBD0</color>
+    <color name="card_mensaje">#F48FB1</color>
+    <color name="blanco">#ffffff</color>
+
+</resources>
